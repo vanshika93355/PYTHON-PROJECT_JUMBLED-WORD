@@ -1,7 +1,5 @@
 PYTHON PROJECT
 BY: VANSHIKA SRIVASTAVA
-SAP ID: 500125709
-ROLL NUM: R2142232070
 
 Hello, I am Vanshika! 
 This project combines all the Python knowledge I've acquired to date.
